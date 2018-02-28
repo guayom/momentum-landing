@@ -10,9 +10,7 @@
   "author": "Guayo Mena",
   "license": "ISC",
   "dependencies": {
-    "node-sass": "^4.7.2"
-  },
-  "devDependencies": {
+    "node-sass": "^4.7.2",
     "compress-images": "^1.1.8"
   }
 }
