@@ -1,0 +1,21 @@
+body {
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+main-container {
+    display: flex;
+}
+
+.logo {
+    &--1 {
+        border: solid red 10px;
+    }
+    &--2 {
+        border: solid green 10px;
+    }
+    &--1 {
+        border: solid blue 10px;
+    }
+}
